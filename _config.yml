@@ -105,4 +105,4 @@ ignore:
 deploy:
   type: 'git'
   repo: git@github.com:owoneko/owoneko.github.io.git
-  branch: master
+  branch: gh-pages
