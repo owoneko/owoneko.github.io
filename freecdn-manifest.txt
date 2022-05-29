@@ -16365,3 +16365,6 @@
 	https://cdn.bootcss.com/tslib/2.4.0/tslib.js
 	https://cdn.bootcdn.net/ajax/libs/tslib/2.4.0/tslib.js
 	hash=cBo6YUWgQgVCnSO0ekj0wzOQTS1jL5+9UDn69Wb42Jw=
+
+@update
+	services=ws://127.0.0.1:30000
