@@ -99,9 +99,25 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: fluid
 
+# offline config passed to sw-precache.
+service_worker:
+  maximumFileSizeToCacheInBytes: 5242880
+  staticFileGlobs:
+  - public/index.html
+  - public/img/favcion.png
+  - public/manifest.json
+  stripPrefix: public
+  verbose: false
+  runtimeCaching:
+    - urlPattern: /**/*
+      handler: cacheFirst
+      options:
+        origin: www.yumoe.live
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
   repo: git@github.com:owoneko/owoneko.github.io.git
   branch: gh-pages
+
