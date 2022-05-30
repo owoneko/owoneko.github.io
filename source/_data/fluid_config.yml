@@ -241,7 +241,7 @@ custom_css:
 # Customize <head> HTML content
 custom_head: '
 <link rel="manifest" href="/manifest.json">
-<script src="/sw-register.js"></script>
+<script src="/js/sw-register.js"></script>
 '
 
 # 网页访问统计
