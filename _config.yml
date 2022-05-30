@@ -99,6 +99,20 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: fluid
 
+# offline config passed to sw-precache.
+service_worker:
+  maximumFileSizeToCacheInBytes: 5242880
+  staticFileGlobs:
+  - public/**/*.{json,js,html,css,png,jpg,gif,svg,eot,ttf,woff,woff2}
+  - public/*.js
+  stripPrefix: public
+  verbose: false
+  runtimeCaching:
+    - urlPattern: /**/*
+      handler: cacheFirst
+      options:
+        - origin: www.yumoe.live
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
