@@ -4,3 +4,9 @@ module.exports = {
     globDirectory: "C:/blog/public",
     swDest: "/blog/themes/fluid/source/js/sw.js",
   }
+  service_worker:
+  runtimeCaching:
+    - urlPattern /*
+      handler: cacheFirst
+      options:
+        origin: www.yumoe.live */
