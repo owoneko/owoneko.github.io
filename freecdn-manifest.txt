@@ -16366,5 +16366,4 @@
 	https://cdn.bootcdn.net/ajax/libs/tslib/2.4.0/tslib.js
 	hash=cBo6YUWgQgVCnSO0ekj0wzOQTS1jL5+9UDn69Wb42Jw=
 
-@update
-	services=ws://127.0.0.1:30000
+# SIGN: +ulL6Qr1zsQ0ML9zKf7bsohrZeybcf9Ll4DILJoF8YFA6R6YCR3+faq1D55lnEho3z0UsU23Q8+1EMVvtVU+hA==
