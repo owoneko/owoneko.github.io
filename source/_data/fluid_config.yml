@@ -237,6 +237,9 @@ custom_js: /js/freecdn-loader.min.js
 # The usage is the same as custom_js
 custom_css:
 
+# 自定义 <head> 节点中的 HTML 内容
+custom_head: <link rel="manifest" href="manifest.json">
+
 # 网页访问统计
 # Analysis of website visitors
 web_analytics:  # 网页访问统计
