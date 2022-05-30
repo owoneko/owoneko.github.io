@@ -99,14 +99,6 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: fluid
 
-# offline config passed to sw-precache.
-offline:
-  maximumFileSizeToCacheInBytes: 5242880
-  staticFileGlobs:
-    - public/**/*.{js,html,css,png,jpg,gif,svg,eot,ttf,woff,woff2}
-  stripPrefix: public
-  verbose: true
-
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
