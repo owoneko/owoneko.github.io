@@ -138,7 +138,7 @@ dark_mode:
 color:
   # body 背景色
   # Color of body background
-  body_bg_color: "FEA8BE"
+  body_bg_color: "#FEA8BE"
   # 暗色模式下的 body 背景色，下同
   # Color in dark mode, the same below
   body_bg_color_dark: "#181c27"
