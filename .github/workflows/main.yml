@@ -26,7 +26,8 @@ jobs:
     
     - name: Setup Hexo Dependencies
       run: |
-        npm install hexo-cli -g --force
+        npm uninstall hexo-offline
+        npm install hexo-cli -g
         npm install
         npm install hexo-renderer-pug hexo-renderer-stylus --save
         npm install --save hexo-deployer-git
