@@ -239,9 +239,7 @@ custom_css:
 
 # 自定义 <head> 节点中的 HTML 内容
 # Customize <head> HTML content
-custom_head: '
-<link rel="manifest" href="/manifest.json">
-<script src="/sw-register.js"></script>
+custom_head: 
 '
 
 # 网页访问统计
