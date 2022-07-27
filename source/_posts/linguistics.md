@@ -2,7 +2,7 @@
 layout: post
 title: linguistics
 date: 2022-05-21 15:42:11
-tags: ideas
+tags: Ideas
 ---
 
 Linguistics,the science of language,or the scientific study of language,is an essential research field for both the development of individuals and whole society.People can not communicate without language,and the means of performing language is critical in speech therapy,education,translation and many other practical sectors.For this reason,linguistics is bound to be an academically and economically favored pursuit.
