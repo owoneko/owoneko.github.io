@@ -1,10 +1,7 @@
 ---
 title: Leetcode 题解
 date: 2022-07-27 11:56:16
-categories:
--Programming
-tags: 
--Leetcode
+tags: Leetcode
 ---
 
 题目：
