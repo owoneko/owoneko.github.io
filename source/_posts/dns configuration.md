@@ -1,5 +1,5 @@
 ---
-title: secondary dns 配置
+title: Secondary dns 配置
 date: 2022-08-16 10:10:38
 tags: Technology
 ---
