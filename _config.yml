@@ -117,9 +117,6 @@ service_worker:
 ## Docs: https://hexo.io/docs/one-command-deployment
 
 deploy: 
-  type: 'cos'
-  appId: 1317471106
-  secretId: IKIDa3PZfBYknfKqEsMlH6JPMQKNI2c0GKSS
-  secretKey: 0ugS6bv96Vnw595pYKxPcd5NdksoV0Oi
-  bucket: moea-1317471106
-  region: ap-tokyo
+  type: 'git'
+  repo: git@github.com:owoneko/owoneko.github.io.git
+  branch: gh-pages
