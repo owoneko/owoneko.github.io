@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://www.yumoe.live
+url: https://moea.ir
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -111,7 +111,7 @@ service_worker:
     - urlPattern: /**/*
       handler: cacheFirst
       options:
-        - origin: www.yumoe.live
+        - origin: moea.ir
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
