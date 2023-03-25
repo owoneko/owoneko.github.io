@@ -121,7 +121,7 @@ deploy:
   branch: gh-pages
 
 deploy:
-  type: cos
+  type: 'cos'
   bucket: moea-1317471106
   appId: 1317471106
   secretId: IKIDa3PZfBYknfKqEsMlH6JPMQKNI2c0GKSS
