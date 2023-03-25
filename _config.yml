@@ -115,11 +115,8 @@ service_worker:
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-deploy: 
-  type: 'git'
-  repo: git@github.com:owoneko/owoneko.github.io.git
-  branch: gh-pages
 
+deploy: 
   type: 'cos'
   bucket: moea-1317471106
   appId: 1317471106
