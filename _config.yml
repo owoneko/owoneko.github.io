@@ -122,4 +122,4 @@ deploy:
   appId: 1317471106
   secretId: IKIDa3PZfBYknfKqEsMlH6JPMQKNI2c0GKSS
   secretKey: 0ugS6bv96Vnw595pYKxPcd5NdksoV0Oi
-  region: tokyo
+  region: ap-tokyo
