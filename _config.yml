@@ -120,3 +120,11 @@ deploy:
   repo: git@github.com:owoneko/owoneko.github.io.git
   branch: gh-pages
 
+deploy:
+  type: cos
+  bucket: moea-1317471106
+  appId: 1317471106
+  secretId: IKIDa3PZfBYknfKqEsMlH6JPMQKNI2c0GKSS
+  secretKey: 0ugS6bv96Vnw595pYKxPcd5NdksoV0Oi
+  region: tokyo
+
